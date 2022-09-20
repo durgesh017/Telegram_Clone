@@ -15,9 +15,9 @@ Please adhere to this project's `code of conduct`.
 Contributions are always welcome. Please fork this repository and contribute using pull requests. The pull requests will be thoroughly assessed and if found significant will be accepted.
 ## Screenshots
 <p float="center">
-<img src="https://user-images.githubusercontent.com/101611806/191265793-9718b40a-1dea-49fa-bff1-31195f395565.png" width=30% height=35%>
+<img src="https://user-images.githubusercontent.com/101611806/191265793-9718b40a-1dea-49fa-bff1-31195f395565.png" width=35% height=35%>
   
-<img src="https://user-images.githubusercontent.com/101611806/191265830-1fc161e6-d4a5-4fd9-ba8a-8cd95b4a3464.png" width=30% height=35%>
+<img src="https://user-images.githubusercontent.com/101611806/191265830-1fc161e6-d4a5-4fd9-ba8a-8cd95b4a3464.png" width=35% height=35%>
   
 
 </p>

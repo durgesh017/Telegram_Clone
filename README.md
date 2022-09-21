@@ -1,7 +1,7 @@
 
 # Telegram_UI
 
-A perfect Whatsapp UI Made for developers ❤️And Dark Theme Features Available Soon
+A perfect Telegram UI Made for developers ❤️And Dark Theme Features Available Soon
 
 
 ## Contributing
